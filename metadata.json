@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Precision",
+  "description": "Technical athletic apparel and carbon-plated performance footwear storefront with interactive specs and parallax scroll.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
